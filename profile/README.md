@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cipherdothost/.github/trunk/assets/logo-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cipherdothost/.github/trunk/assets/logo-light.png">
-    <img alt="Cipher Host's logo" src="https://github.com/cipherdothost/.github/raw/assets/logo-light.png?raw=true" height="34">
+    <img alt="Cipher Host's logo" src="https://github.com/cipherdothost/.github/raw/assets/logo-light.png?raw=true" height="50">
   </picture>
 </h1>
 
